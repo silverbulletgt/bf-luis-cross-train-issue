@@ -1,0 +1,20 @@
+# ? Question In ExternalFile.qna
+
+**Filters:**
+- dialogName=ExternalFile
+
+```
+Answer to question in ExternalFile.qna
+```
+
+> Source: cross training. Please do not edit these directly!
+> !# @qna.pair.source = crosstrained
+
+# ? utterance for ExternalIntent
+
+**Filters:**
+- dialogName=ExternalFile
+
+```
+intent=DeferToRecognizer_LUIS_ExternalFile
+```

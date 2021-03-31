@@ -1,0 +1,20 @@
+# ? Question In Main application.qna
+
+**Filters:**
+- dialogName=application
+
+```
+Answer to question in application.qna
+```
+
+> Source: cross training. Please do not edit these directly!
+> !# @qna.pair.source = crosstrained
+
+# ? utterance for LocalIntent
+
+**Filters:**
+- dialogName=application
+
+```
+intent=DeferToRecognizer_LUIS_application
+```
