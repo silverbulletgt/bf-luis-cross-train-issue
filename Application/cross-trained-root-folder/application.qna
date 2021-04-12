@@ -20,6 +20,7 @@ Answer to question in ExternalFile.qna
 > !# @qna.pair.source = crosstrained
 
 # ? utterance for LocalIntent
+- utterance for ExternalIntent
 
 **Filters:**
 - dialogName=application

@@ -11,8 +11,8 @@
 - utterance for LocalIntent
 
 
-# DeferToRecognizer_QnA_application
-- Question In Main application.qna
+# ExternalIntent
+- utterance for ExternalIntent
 
 
 > # Entity definitions
@@ -33,4 +33,5 @@
 
 > Source: cross training. Please do not edit these directly!
 # DeferToRecognizer_QnA_application
+- Question In Main application.qna
 - Question In ExternalFile.qna
